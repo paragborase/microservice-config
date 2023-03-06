@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: config-Default
-
 eureka:
   client:
     registry-with-eureka: 'true'
